@@ -1,0 +1,6 @@
+@DRESystem.API.New_HostAddress = http://localhost:5298
+
+GET {{DRESystem.API.New_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

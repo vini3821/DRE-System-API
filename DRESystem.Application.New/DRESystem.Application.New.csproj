@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\DRESystem.Domain.New\DRESystem.Domain.New.csproj" />
+    <ProjectReference Include="..\DRESystem.Data.New\DRESystem.Data.New.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
