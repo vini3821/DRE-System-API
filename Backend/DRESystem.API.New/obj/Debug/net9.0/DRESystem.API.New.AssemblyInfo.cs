@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DRESystem.API.New")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1463a9d7f1523730be58b7dadf17e2df26831e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4248435efaef592d4b5fe6b86f400a6129d11a1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DRESystem.API.New")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DRESystem.API.New")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
